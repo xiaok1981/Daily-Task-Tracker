@@ -1,0 +1,22 @@
+{
+  "name": "daily-task-tracker",
+  "version": "1.0.0",
+  "description": "A simple and modern Daily Task Tracker with automated CI/CD and testing",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "task-tracker",
+    "todo",
+    "ci-cd",
+    "github-actions",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
